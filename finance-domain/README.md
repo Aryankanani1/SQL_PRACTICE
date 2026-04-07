@@ -15,3 +15,9 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 - Subqueries & CTEs
 - Date/Time operations
 - Filtering & CASE expressions
+
+## Problems
+
+| Day | File | Difficulty | Topics |
+|-----|------|------------|--------|
+| 1 | [day_01_07-04-26.sql](day_01_07-04-26.sql) | Easy / Medium / Hard | WHERE, YEAR(), GROUP BY, HAVING, JOIN, CTE, ROW_NUMBER() |
