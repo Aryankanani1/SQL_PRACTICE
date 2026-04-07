@@ -3,7 +3,7 @@
 Daily SQL problems set in a finance context: banking, transactions, accounts, loans, and more.
 
 ## Setup
-Run [finance_db_setup.sql](finance_db_setup.sql) to create the database, tables, and seed data.
+Run [finance_db_setup.sql](finance-domain-db/finance_db_setup.sql) to create the database, tables, and seed data.
 Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 
 **Tables:** `customers`, `accounts`, `transactions`, `loans`, `loan_payments`, `merchants`, `cards`, `branches`, `employees`
