@@ -21,3 +21,4 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | Day | File | Difficulty | Topics |
 |-----|------|------------|--------|
 | 1 | [day_01_07-04-26.sql](practice/day_01_07-04-26.sql) | Easy / Medium / Hard | WHERE, YEAR(), GROUP BY, HAVING, JOIN, CTE, ROW_NUMBER() |
+| 2 | [day_02_08-04-26.sql](practice/day_02_08-04-26.sql) | Easy / Medium / Hard | WHERE, Window Functions, Running Total, CASE, CTE, DENSE_RANK() |
