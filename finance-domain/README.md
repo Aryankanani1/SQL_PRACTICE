@@ -26,3 +26,4 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 4 | [day_04_10-04-26.sql](practice/day_04_10-04-26.sql) | Easy / Medium | SUM(), AVG(), COUNT(), GROUP BY, Multi-CTE, Debt vs Balance analysis |
 | 5 | [day_05_11-04-26.sql](practice/day_05_11-04-26.sql) | Hard | Multi-CTE, NULLIF(), Month-over-month analysis, Fraud detection, ROW_NUMBER() |
 | 6 | [day_06_12-04-26.sql](practice/day_06_12-04-26.sql) | Easy / Medium | JOIN, SUM(), Correlated Subquery, MAX(), ROW_NUMBER(), CASE |
+| 7 | [day_07_13-04-26.sql](practice/day_07_13-04-26.sql) | Easy / Medium | GROUP BY, HAVING, COUNT(), NOT IN subquery, Correlated subquery |
