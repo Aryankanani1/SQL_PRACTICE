@@ -29,3 +29,4 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 7 | [day_07_13-04-26.sql](practice/day_07_13-04-26.sql) | Easy / Medium | GROUP BY, HAVING, COUNT(), NOT IN subquery, Correlated subquery |
 | 8 | [day_08_14-04-26.sql](practice/day_08_14-04-26.sql) | Medium | HAVING, CTE, Correlated subquery, RANK() OVER PARTITION, multi-loan type filter |
 | 9 | [day_09_15-04-26.sql](practice/day_09_15-04-26.sql) | Easy / Medium | AVG/MIN/MAX, JOIN, Multi-CTE, NULLIF(), EXISTS subquery, debt-to-income ratio |
+| 10 | [day_10_16-04-26.sql](practice/day_10_16-04-26.sql) | Easy / Medium | LEFT JOIN, Correlated subquery, RANK() OVER PARTITION BY state, Multi-CTE |
