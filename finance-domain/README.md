@@ -32,3 +32,4 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 10 | [day_10_16-04-26.sql](practice/day_10_16-04-26.sql) | Easy / Medium | LEFT JOIN, Correlated subquery, RANK() OVER PARTITION BY state, Multi-CTE |
 | 11 | [day_11_18-04-26.sql](practice/day_11_18-04-26.sql) | Easy / Medium | JOIN, LEFT JOIN, CASE, CTE, RANK(), PERCENT_RANK(), HAVING |
 | 12 | [day_12_19-04-26.sql](practice/day_12_19-04-26.sql) | Easy / Medium | LEFT JOIN, IS NULL, COALESCE(), DATE_ADD(), DATE_SUB(), CURDATE() |
+| 13 | [day_13_21-04-26.sql](practice/day_13_21-04-26.sql) | Easy / Medium | JOIN, Multi-CTE, Churn analysis, Moving average, COUNT(DISTINCT), HAVING |
