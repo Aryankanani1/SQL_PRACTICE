@@ -18,6 +18,8 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 
 ## Problems
 
+### General Practice (`practice/`)
+
 | Day | File | Difficulty | Topics |
 |-----|------|------------|--------|
 | 1 | [day_01_07-04-26.sql](practice/day_01_07-04-26.sql) | Easy / Medium / Hard | WHERE, YEAR(), GROUP BY, HAVING, JOIN, CTE, ROW_NUMBER() |
@@ -36,3 +38,9 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 14 | [day_14_22-04-26.sql](practice/day_14_22-04-26.sql) | Easy / Medium | GROUP BY, JOIN, CTE, COALESCE(), CASE, NOT IN subquery, HAVING |
 | 15 | [day_15_23-04-26.sql](practice/day_15_23-04-26.sql) | Medium | CTE + outlier detection, Correlated subquery, ROW_NUMBER(), TIMESTAMPDIFF(), NULLIF() |
 | 16 | [day_16_24-04-26.sql](practice/day_16_24-04-26.sql) | Medium | HAVING, Correlated subquery, CTE + ROW_NUMBER(), LEAD(), Cumulative % with ROWS UNBOUNDED |
+
+### Subquery Practice (`subquery_practice/`)
+
+| Day | File | Difficulty | Topics |
+|-----|------|------------|--------|
+| 1 | [day_01_25-04-26.sql](subquery_practice/day_01_25-04-26.sql) | Easy / Medium | Scalar subquery, IN, NOT IN, MAX/AVG subquery |
