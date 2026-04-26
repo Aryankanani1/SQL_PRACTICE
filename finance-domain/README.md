@@ -44,3 +44,4 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | Day | File | Difficulty | Topics |
 |-----|------|------------|--------|
 | 1 | [day_01_25-04-26.sql](subquery_practice/day_01_25-04-26.sql) | Easy / Medium | Scalar subquery, IN, NOT IN, MAX/AVG subquery |
+| 2 | [day_02_26-04-26.sql](subquery_practice/day_02_26-04-26.sql) | Easy / Medium | IN, NOT IN, EXISTS, NOT EXISTS |
