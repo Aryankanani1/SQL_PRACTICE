@@ -46,3 +46,4 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 |-----|------|------------|--------|
 | 1 | [day_01_25-04-26.sql](subquery_practice/day_01_25-04-26.sql) | Easy / Medium | Scalar subquery, IN, NOT IN, MAX/AVG subquery |
 | 2 | [day_02_26-04-26.sql](subquery_practice/day_02_26-04-26.sql) | Easy / Medium | IN, NOT IN, EXISTS, NOT EXISTS |
+| 3 | [day_03_27-04-26.sql](subquery_practice/day_03_27-04-26.sql) | Medium | NOT EXISTS, Scalar subquery, Derived table, Correlated subquery, double IN |

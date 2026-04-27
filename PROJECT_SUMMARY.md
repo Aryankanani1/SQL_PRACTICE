@@ -17,7 +17,8 @@ SQL_PRACTICE/
     │   └── finance_db_setup.sql        ← MySQL schema + seed data
     ├── subquery_practice/
     │   ├── day_01_25-04-26.sql         ← Q1–Q7 (subquery series)
-    │   └── day_02_26-04-26.sql         ← Q8–Q13 (subquery series)
+    │   ├── day_02_26-04-26.sql         ← Q8–Q13 (subquery series)
+    │   └── day_03_27-04-26.sql         ← Q14–Q19 (subquery series)
     └── practice/
         ├── day_01_07-04-26.sql         ← Q1–Q6
         ├── day_02_08-04-26.sql         ← Q7–Q12
