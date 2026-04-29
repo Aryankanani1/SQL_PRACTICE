@@ -37,7 +37,8 @@ SQL_PRACTICE/
         ├── day_14_22-04-26.sql         ← Q67–Q71
         ├── day_15_23-04-26.sql         ← Q72–Q75
         ├── day_16_24-04-26.sql         ← Q76–Q81
-        └── day_17_26-04-26.sql         ← Q82–Q84
+        ├── day_17_26-04-26.sql         ← Q82–Q84
+        └── day_18_28-04-26.sql         ← Q85–Q88
 ```
 
 ## Database
@@ -76,6 +77,7 @@ SQL_PRACTICE/
 | 15 | day_15_23-04-26.sql | Q72–Q75 | Medium |
 | 16 | day_16_24-04-26.sql | Q76–Q81 | Medium |
 | 17 | day_17_26-04-26.sql | Q82–Q84 | Medium |
+| 18 | day_18_28-04-26.sql | Q85–Q88 | Medium |
 
 ## Topics Covered So Far
 - `WHERE`, `IN`, `YEAR()`, `MONTH()`, `MONTHNAME()`

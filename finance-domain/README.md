@@ -39,6 +39,7 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 15 | [day_15_23-04-26.sql](practice/day_15_23-04-26.sql) | Medium | CTE + outlier detection, Correlated subquery, ROW_NUMBER(), TIMESTAMPDIFF(), NULLIF() |
 | 16 | [day_16_24-04-26.sql](practice/day_16_24-04-26.sql) | Medium | HAVING, Correlated subquery, CTE + ROW_NUMBER(), LEAD(), Cumulative % with ROWS UNBOUNDED |
 | 17 | [day_17_26-04-26.sql](practice/day_17_26-04-26.sql) | Medium | HAVING, Multi-CTE + LEFT JOIN gap analysis, Window AVG + CASE |
+| 18 | [day_18_28-04-26.sql](practice/day_18_28-04-26.sql) | Medium | Multi-CTE spend %, LAG() + DATEDIFF(), derived table JOIN, CTE + LEFT JOIN null filter |
 
 ### Subquery Practice (`subquery_practice/`)
 
