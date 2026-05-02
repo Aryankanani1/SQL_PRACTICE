@@ -51,3 +51,4 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 3 | [day_03_27-04-26.sql](subquery_practice/day_03_27-04-26.sql) | Medium | NOT EXISTS, Scalar subquery, Derived table, Correlated subquery, double IN |
 | 4 | [day_04_28-04-26.sql](subquery_practice/day_04_28-04-26.sql) | Medium | Derived table + LIMIT, Scalar subquery, IN with HAVING, AVG subquery |
 | 5 | [day_05_29-04-26.sql](subquery_practice/day_05_29-04-26.sql) | Medium | Double EXISTS, correlated subquery, derived table vs correlated (2 ways each), CTE + recent tx |
+| 6 | [day_06_02-05-26.sql](subquery_practice/day_06_02-05-26.sql) | Medium | EXISTS + NOT EXISTS, correlated SELECT, ALL operator, double IN months filter, derived table payroll |
