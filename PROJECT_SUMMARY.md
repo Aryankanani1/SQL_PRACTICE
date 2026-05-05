@@ -21,7 +21,8 @@ SQL_PRACTICE/
     │   ├── day_03_27-04-26.sql         ← Q14–Q19 (subquery series)
     │   ├── day_04_28-04-26.sql         ← Q20–Q24 (subquery series)
     │   ├── day_05_29-04-26.sql         ← Q25–Q29 (subquery series)
-    │   └── day_06_02-05-26.sql         ← Q30–Q35 (subquery series)
+    │   ├── day_06_02-05-26.sql         ← Q30–Q35 (subquery series)
+    │   └── day_07_04-05-26.sql         ← Q36–Q38 (subquery series)
     └── practice/
         ├── day_01_07-04-26.sql         ← Q1–Q6
         ├── day_02_08-04-26.sql         ← Q7–Q12
