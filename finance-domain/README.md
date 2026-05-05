@@ -42,6 +42,7 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 18 | 28/4/26 | [day_18_28-04-26.sql](practice/day_18_28-04-26.sql) | Medium | Multi-CTE spend %, LAG() + DATEDIFF(), derived table JOIN, CTE + LEFT JOIN null filter |
 | 19 | 30/4/26 | [day_19_30-04-26.sql](practice/day_19_30-04-26.sql) | Medium | ROW_NUMBER() top-N per dept, CTE + window AVG % diff, HAVING 5x balance multiplier |
 | 20 | 2/5/26 | [day_20_02-05-26.sql](practice/day_20_02-05-26.sql) | Easy / Medium | CTE + LAG() MoM change, HAVING vs subquery avg, CASE net flow, window SUM % of monthly total |
+| 21 | 5/5/26 | [day_21_05-05-26.sql](practice/day_21_05-05-26.sql) | Medium | TIMESTAMPDIFF avg deposit, ALL operator, CTE cash flow + CASE, nested subquery avg tx, DENSE_RANK() 2nd highest |
 
 ### Subquery Practice (`subquery_practice/`)
 
