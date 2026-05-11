@@ -45,6 +45,9 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 21 | 5/5/26 | [day_21_05-05-26.sql](practice/day_21_05-05-26.sql) | Medium | TIMESTAMPDIFF avg deposit, ALL operator, CTE cash flow + CASE, nested subquery avg tx, DENSE_RANK() 2nd highest |
 | 22 | 6/5/26 | [day_22_06-05-26.sql](practice/day_22_06-05-26.sql) | Medium | GROUP BY monthly interest, ROW_NUMBER() top-2 per account, NULLIF % HAVING, CTE CASE net flow, Multi-CTE low-engagement filter |
 | 23 | 7/5/26 | [day_23_07-05-26.sql](practice/day_23_07-05-26.sql) | Medium | Multi-CTE loan completion %, HAVING branch salary, Multi-CTE net worth RANK(), window SUM % of type, CTE top-5 tx per account |
+| 24 | 9/5/26 | [day_24_09-05-26.sql](practice/day_24_09-05-26.sql) | Medium | Self-join peer comparison, Multi-CTE + DATEDIFF within 3 days, NTILE(3) tier labels, HAVING MAX/MIN disparity, Multi-CTE portfolio upgrade, GROUP_CONCAT distinct types |
+| 25 | 10/5/26 | [day_25_10-05-26.sql](practice/day_25_10-05-26.sql) | Hard | Multi-CTE ROW_NUMBER() peak spending month, RANGE INTERVAL 30-day rolling AVG, Multi-CTE delinquent + balance risk filter |
+| 26 | 11/5/26 | [day_26_11-05-26.sql](practice/day_26_11-05-26.sql) | Hard | Window STDDEV statistical outlier detection, Multi-CTE + RANK() burst activity fraud detection |
 
 ### Subquery Practice (`subquery_practice/`)
 
