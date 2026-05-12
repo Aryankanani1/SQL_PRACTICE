@@ -48,6 +48,7 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 24 | 9/5/26 | [day_24_09-05-26.sql](practice/day_24_09-05-26.sql) | Medium | Self-join peer comparison, Multi-CTE + DATEDIFF within 3 days, NTILE(3) tier labels, HAVING MAX/MIN disparity, Multi-CTE portfolio upgrade, GROUP_CONCAT distinct types |
 | 25 | 10/5/26 | [day_25_10-05-26.sql](practice/day_25_10-05-26.sql) | Hard | Multi-CTE ROW_NUMBER() peak spending month, RANGE INTERVAL 30-day rolling AVG, Multi-CTE delinquent + balance risk filter |
 | 26 | 11/5/26 | [day_26_11-05-26.sql](practice/day_26_11-05-26.sql) | Hard | Window STDDEV statistical outlier detection, Multi-CTE + RANK() burst activity fraud detection |
+| 27 | 12/5/26 | [day_27_12-05-26.sql](practice/day_27_12-05-26.sql) | Hard | Double EXISTS financially stressed filter, Running SUM ROWS UNBOUNDED cumulative interest, Self-join same-day duplicate/fraud detection, Multi-CTE health score + DENSE_RANK() |
 
 ### Subquery Practice (`subquery_practice/`)
 
