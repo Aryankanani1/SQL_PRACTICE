@@ -49,6 +49,7 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 25 | 10/5/26 | [day_25_10-05-26.sql](practice/day_25_10-05-26.sql) | Hard | Multi-CTE ROW_NUMBER() peak spending month, RANGE INTERVAL 30-day rolling AVG, Multi-CTE delinquent + balance risk filter |
 | 26 | 11/5/26 | [day_26_11-05-26.sql](practice/day_26_11-05-26.sql) | Hard | Window STDDEV statistical outlier detection, Multi-CTE + RANK() burst activity fraud detection |
 | 27 | 12/5/26 | [day_27_12-05-26.sql](practice/day_27_12-05-26.sql) | Hard | Double EXISTS financially stressed filter, Running SUM ROWS UNBOUNDED cumulative interest, Self-join same-day duplicate/fraud detection, Multi-CTE health score + DENSE_RANK() |
+| 28 | 15/5/26 | [day_28_15-05-26.sql](practice/day_28_15-05-26.sql) | Medium | CREATE INDEX, EXPLAIN, range filter vs YEAR() wrap, FORCE INDEX, index range wall, derived table JOIN optimization |
 
 ### Subquery Practice (`subquery_practice/`)
 
