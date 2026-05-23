@@ -54,6 +54,7 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 30 | 17/5/26 | [day_30_17-05-26.sql](practice/day_30_17-05-26.sql) | Medium | TIMESTAMPDIFF + DATE_SUB range index, covering index IN filter, derived table SUM + index, LEFT JOIN self-join hierarchy, FORCE INDEX remaining_balance |
 | 31 | 19/5/26 | [day_31_19-05-26.sql](practice/day_31_19-05-26.sql) | Medium | EXPLAIN + HAVING on COUNT, composite index status+account_id, salary range index + ORDER BY, covering index status+account_type+balance |
 | 32 | 20/5/26 | [day_32_20-05-26.sql](practice/day_32_20-05-26.sql) | Medium | EXPLAIN + index on active cards JOIN, BETWEEN date range covering index, opened_date range covering index, CASE COUNT per status, payment_date range covering index |
+| 33 | 23/5/26 | [day_33_23-05-26.sql](practice/day_33_23-05-26.sql) | Medium | Derived table JOIN + branch covering index, IS NULL covering index, GROUP BY outstanding_balance index, inactive merchant filter, DATE_SUB hire_date range index |
 
 ### Subquery Practice (`subquery_practice/`)
 
