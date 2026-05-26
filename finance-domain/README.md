@@ -68,3 +68,33 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 5 | 29/4/26 | [day_05_29-04-26.sql](subquery_practice/day_05_29-04-26.sql) | Medium | Double EXISTS, correlated subquery, derived table vs correlated (2 ways each), CTE + recent tx |
 | 6 | 2/5/26 | [day_06_02-05-26.sql](subquery_practice/day_06_02-05-26.sql) | Medium | EXISTS + NOT EXISTS, correlated SELECT, ALL operator, double IN months filter, derived table payroll |
 | 7 | 4/5/26 | [day_07_04-05-26.sql](subquery_practice/day_07_04-05-26.sql) | Medium | EXISTS + frozen/delinquent filter, derived table MoM self-join, correlated subquery interest % |
+
+### Recursive CTE Practice (`recursive_cte_practice/`) — 🔴 Priority 1
+
+| Day | Date | File | Difficulty | Topics |
+|-----|------|------|------------|--------|
+
+### Gap & Island Practice (`gap_island_practice/`) — 🔴 Priority 2
+
+| Day | Date | File | Difficulty | Topics |
+|-----|------|------|------------|--------|
+
+### Pivot / Unpivot Practice (`pivot_practice/`) — 🟡 Priority 3
+
+| Day | Date | File | Difficulty | Topics |
+|-----|------|------|------------|--------|
+
+### Date Math Practice (`date_math_practice/`)
+
+| Day | Date | File | Difficulty | Topics |
+|-----|------|------|------------|--------|
+
+### Fraud & Anomaly Detection Practice (`fraud_detection_practice/`)
+
+| Day | Date | File | Difficulty | Topics |
+|-----|------|------|------------|--------|
+
+### EXPLAIN ANALYZE Practice (`explain_analyze_practice/`) — 🟡 Priority 5
+
+| Day | Date | File | Difficulty | Topics |
+|-----|------|------|------------|--------|
