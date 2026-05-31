@@ -56,6 +56,7 @@ Mimics real banking systems used at JPMorgan, Goldman, Stripe, PayPal, Visa.
 | 32 | 20/5/26 | [day_32_20-05-26.sql](practice/day_32_20-05-26.sql) | Medium | EXPLAIN + index on active cards JOIN, BETWEEN date range covering index, opened_date range covering index, CASE COUNT per status, payment_date range covering index |
 | 33 | 23/5/26 | [day_33_23-05-26.sql](practice/day_33_23-05-26.sql) | Medium | Derived table JOIN + branch covering index, IS NULL covering index, GROUP BY outstanding_balance index, inactive merchant filter, DATE_SUB hire_date range index |
 | 34 | 25/5/26 | [day_34_25-05-26.sql](practice/day_34_25-05-26.sql) | Medium / Hard | COUNT DISTINCT MONTH + correlated subquery HAVING, Multi-CTE avg cross-join comparison, CTE MAX date + HAVING 90-day inactivity, multi-table composite indexes |
+| 35 | 30/5/26 | [day_35_30-05-26.sql](practice/day_35_30-05-26.sql) | Hard | Multi-CTE + LAG(1) LAG(2) 3-consecutive-month spending increase, EXISTS correlated subquery same-day loan payment match |
 
 ### Subquery Practice (`subquery_practice/`)
 
